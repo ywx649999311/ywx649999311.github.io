@@ -5,12 +5,20 @@
     <link>https://ywx649999311.github.io/author/weixiang-yu/</link>
       <atom:link href="https://ywx649999311.github.io/author/weixiang-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Weixiang Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ywx649999311.github.io/author/weixiang-yu/avatar_hu7103bfbef5932d5442cfacfa7a1fa55b_102158_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://ywx649999311.github.io/images/icon_hu3037fa65b3abcd9d15bf81f666d5cc36_595398_512x512_fill_lanczos_center_2.png</url>
       <title>Weixiang Yu</title>
       <link>https://ywx649999311.github.io/author/weixiang-yu/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Modeling Handbook for Optical AGN Variability</title>
+      <link>https://ywx649999311.github.io/publication/2019-pasp-131-f-3001-m/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ywx649999311.github.io/publication/2019-pasp-131-f-3001-m/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
